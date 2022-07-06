@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9R5CPfm9va8BBU13gUunpGUO9pZOOJeIVNRAd+ptw42+Jzk2jm2xOGJapqNuC5npeHdHOjvTFYS3ryV12rDXA==",
+  "success": true,
+  "projectFilePath": "/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/SEC-210-05-master/Unit05.csproj",
+  "expectedPackageFiles": [
+    "/Users/ravy/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/ravy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
